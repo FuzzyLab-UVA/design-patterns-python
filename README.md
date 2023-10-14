@@ -1,15 +1,13 @@
 # Design Patterns em Python
 
-Aprendendo todos os `Design Patterns`
+Aprendendo todos os `Design Patterns` em Python
 
-## Design Patterns
+## Sumário
 
-### Composite
-
-[Documentação Composite](./Composite/doc/README.md)
+- [Design Patterns](./design_patterns.md)
 
 ---
 
 # Referências
 
-bla bla bla
+
