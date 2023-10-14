@@ -1,8 +1,7 @@
-# File
+# Folder
 
-Arquivo correspondente a classe **File**
 
-Esse classe tem os seguintes atributos:
+A classe **Folder** tem os seguintes atributos:
 
 ```python
     def __init__(self, name, size):
@@ -20,4 +19,5 @@ Essa classe tem os seguintes métodos:
 def get_size(self) -> float:
 ```
 
-- Essa função serve para dizer qual é o tamanho do arquivo.
+- Essa função serve para dizer qual é o tamanho da pasta, somando todos os arquivos que existem dentro da mesma.
+
