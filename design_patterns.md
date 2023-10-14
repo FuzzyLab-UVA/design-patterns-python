@@ -8,4 +8,4 @@ Design Patterns são 23 padrões de projetos feitos pela GoF.
 
 [Composite](./Composite/doc/README.md)
 [Factory]()
-[Strategy]()
+[Strategy](./Strategy/doc/README.md)
