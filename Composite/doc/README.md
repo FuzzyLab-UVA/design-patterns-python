@@ -6,12 +6,19 @@ O Composite ele tem seguinte diagrama de classes.
 
 Ele é muito utilizado no SOLI**D**, sendo o **D** de Dependence Inversion (Inversão de Dependências).
 
+Aqui nós temos 2 classes herdando de *IComponent*, onde essas classes precisam implementar o método *get_size()*, usando a inversão de dependências quem fica responsavél por delegar o que a função vai realizar são as *sub-classes*.
+
+> Nesse exemplo estamos usando o conceito de pastas do seu computador, onde uma pasta pode ter várias pastas, mas um arquivo só pode ter uma pasta.
 
 
 ## Interface
 
+- [IComponent](./component.md)
+
 ## Model
 
+- [Folder](./folder.md)
+- [File](./file.md)
 
 ---
 
