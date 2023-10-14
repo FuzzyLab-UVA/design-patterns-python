@@ -1,4 +1,5 @@
 from Interface import IShipping
+from Model.Order import Order
 
 class Default(IShipping):
 
