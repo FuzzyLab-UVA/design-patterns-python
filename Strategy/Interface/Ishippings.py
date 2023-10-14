@@ -2,5 +2,5 @@ from abc import ABC, abstractmethod
 
 class IShipping(ABC):
     @abstractmethod
-    def calculate(self, order):
+    def calculate(self, order) -> float:
         pass
