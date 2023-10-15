@@ -1,4 +1,4 @@
-from factory import MySqlFactory
+from controllers import MySqlFactory
 
 useCase = MySqlFactory.create()
 
