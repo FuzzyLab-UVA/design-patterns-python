@@ -1,5 +1,5 @@
-from usecase import Usecase
-from databases import MysqlRepository
+from models import Usecase
+from ..databases import MysqlRepository
 
 class MySqlFactory:
     
