@@ -1,0 +1,1 @@
+from .ichair import IChair

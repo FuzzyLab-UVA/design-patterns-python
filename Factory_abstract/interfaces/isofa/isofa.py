@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-class IChair(ABC):
+class ISofa(ABC):
     @abstractmethod
     def hasLegs(self):
         pass

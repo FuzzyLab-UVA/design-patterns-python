@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-class IMobility(ABC):
+class ITable(ABC):
     @abstractmethod
     def hasLegs(self):
         pass
