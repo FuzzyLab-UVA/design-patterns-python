@@ -1,10 +1,10 @@
-# Factory
+# Factory Method
 
-O Factory tem o seguinte diagrama de classes:
+O Factory Method tem o seguinte diagrama de classes:
 
 ![Diagrama Factory](../../Image/diagrama_factory.jpg)
 
-O Factory ele serve justamente para que não tenhamos re-trabalho ao trocar uma parte do nosso código, pois não vamos intanciar aquela parte diretamente, mas sim a `Factory` que vai trazer um objeto padrão com uma interface pradrão.
+O Factory Method ele serve justamente para que não tenhamos re-trabalho ao trocar uma parte do nosso código, pois não vamos intanciar aquela parte diretamente, mas sim a `Factory` que vai trazer um objeto padrão com uma interface pradrão.
 
 > Nesse exemplo estamos utilizando um caso muito comum que é troca de banco de dados.
 
