@@ -1,0 +1,1 @@
+from .mordern_furniture_sofa import MordernFurnitureSofa

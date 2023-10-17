@@ -1,3 +1,3 @@
-from .victorian_furniture_chair import VictorianFurnitureChair
-from .victorian_furniture_sofa import VictorianFurnitureSofa
-from .victorian_furniture_table import VictorianFurnitureTable
+from .victorian_furniture import VictorianFurnitureChair
+from .victorian_furniture import VictorianFurnitureSofa
+from .victorian_furniture import VictorianFurnitureTable
