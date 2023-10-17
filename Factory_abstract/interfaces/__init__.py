@@ -1,0 +1,1 @@
+from .ifurniture_factory import IFurnitureFactory

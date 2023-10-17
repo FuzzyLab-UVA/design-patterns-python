@@ -1,8 +1,8 @@
 from abc import ABC, abstractmethod
 
-from ichair import IChair
-from isofa import ISofa
-from itable import ITable
+from ..ichair import IChair
+from ..itable import ITable
+from ..isofa import ISofa
 
 class IFurnitureFactory(ABC):
     
