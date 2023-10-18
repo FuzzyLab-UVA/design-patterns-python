@@ -10,20 +10,20 @@ Nós usamos esse Design Patterns quando queremos criar uma categoria diferente d
 
 ## Controllers
 
-- [MordernFurnitureFactory]()
-- [VictorianFurnitureFactory]()
+- [MordernFurnitureFactory](./mordern_furniture_factory.md)
+- [VictorianFurnitureFactory](./victorian_furniture_factory.md)
 
 ## Interfaces
 
-- [IChair]()
-- [IFurnitureFactory]()
-- [ISofa]()
-- [ITable]()
+- [IChair](./ichair.md)
+- [IFurnitureFactory](./ifurniture_factory.md)
+- [ISofa](./isofa.md)
+- [ITable](./itable.md)
 
 ## Models
 
-- [MordernFurniture]()
-- [VictorianFurniture]()
+- [MordernFurniture](./mordern_furniture.md)
+- [VictorianFurniture](./victorian_furniture.md)
 
 ---
 
