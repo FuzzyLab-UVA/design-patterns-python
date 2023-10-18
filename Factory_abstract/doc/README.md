@@ -22,17 +22,8 @@ Nós usamos esse Design Patterns quando queremos criar uma categoria diferente d
 
 ## Models
 
-### MordernFurniture
-
-- [Chair]()
-- [Sofa]()
-- [Table]()
-
-### VictorianFurniture
-
-- [Chair]()
-- [Sofa]()
-- [Table]()
+- [MordernFurniture]()
+- [VictorianFurniture]()
 
 ---
 
