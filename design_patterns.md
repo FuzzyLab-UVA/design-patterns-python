@@ -10,6 +10,7 @@ Design Patterns são 23 padrões de projetos feitos pela GoF.
 
 - [Factory Method](./Factory%20Method/doc/README.md)
 - [Abstract Factory](./Abstract%20Factory/doc/README.md)
+- [Singleton](./Singleton/doc/README.md)
 
 - Estrutucional
 
