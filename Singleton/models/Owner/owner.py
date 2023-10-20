@@ -1,5 +1,8 @@
+import sys
+sys.path.append('C:\\Users\Paulitos\\Documents\\Apresentações\\Aula de Git E GitHub\\design-patterns-python\\Singleton')
+
 from interface import IOwner, IUser, IProduct
-from ..product import Product
+from models.product import Product
 
 class Owner(IOwner,IUser):
     def __init__(self, name, login, password):
