@@ -1,5 +1,5 @@
 from interface import IOwner, IUser, IProduct
-from Product import Product
+from ..product import Product
 
 class Owner(IOwner,IUser):
     def __init__(self, name, login, password):

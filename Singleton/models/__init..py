@@ -1,1 +1,2 @@
-from .Product import Product
+from .product import Product
+from .owner import Owner
